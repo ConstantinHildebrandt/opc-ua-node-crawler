@@ -1,0 +1,33 @@
+{
+  "name": "opc-ua-node-crawler",
+  "version": "1.0.0",
+  "description": "This script will crawl a opc ua server and output a description of all nodes in the object folder.",
+  "main": "crawler.js",
+  "dependencies": {
+    "easy-table": "^1.1.1",
+    "exit": "^0.1.2",
+    "js2xmlparser": "^4.0.0",
+    "jsontoxml": "^1.0.1",
+    "jstoxml": "^1.6.0",
+    "node-opcua": "^2.2.0",
+    "treeify": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "--help"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ConstantinHildebrandt/opc-ua-node-crawler.git"
+  },
+  "keywords": [
+    "opc",
+    "ua"
+  ],
+  "author": "Constantin Hildebrandt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ConstantinHildebrandt/opc-ua-node-crawler/issues"
+  },
+  "homepage": "https://github.com/ConstantinHildebrandt/opc-ua-node-crawler#readme"
+}
