@@ -9,7 +9,7 @@
     "js2xmlparser": "^4.0.0",
     "jsontoxml": "^1.0.1",
     "jstoxml": "^1.6.0",
-    "node-opcua": "^2.2.0",
+    "node-opcua": "^2.74.0",
     "treeify": "^1.1.0"
   },
   "devDependencies": {},
